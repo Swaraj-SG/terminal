@@ -5,7 +5,7 @@
 # Welcome to the Windows Terminal, Console and Command-Line repo
 
 <details>
-  <summary><strong>Table of Contents</strong></summary>
+  <summary><strong>Table of Contents are as follows :</strong></summary>
 
 - [Installing and running Windows Terminal](#installing-and-running-windows-terminal)
   - [Microsoft Store \[Recommended\]](#microsoft-store-recommended)
