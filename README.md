@@ -2,7 +2,7 @@
 
 [![Terminal Build Status](https://dev.azure.com/shine-oss/terminal/_apis/build/status%2FTerminal%20CI?branchName=main)](https://dev.azure.com/shine-oss/terminal/_build/latest?definitionId=1&branchName=main)
 
-# Welcome to the Windows Terminal, Console and Command-Line repo
+# Welcome to the Windows Terminal, Console and Command-Line repository !
 
 <details>
   <summary><strong>Table of Contents</strong></summary>
@@ -40,7 +40,7 @@
 
 <br />
 
-This repository contains the source code for:
+This repository contains the source code for :
 
 * [Windows Terminal](https://aka.ms/terminal)
 * [Windows Terminal Preview](https://aka.ms/terminal-preview)
